@@ -25,6 +25,7 @@
                     <a href="https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00181" ><img src="/img/picture_2.jpg" border="2" width="45%"></a>
                 </div>
             <li><h2>報名表</h2><br>
+            <form>
             名字(Name)：<input type="text" name="username" placeholder="name" required><br><br>
             電子郵件(Email)：<input type="email" name="email" placeholder="email"><br><br>
             電話(Phone-number)：<input type="tel" name="number" placeholder="phone-number"><br><br>
@@ -54,6 +55,7 @@
             生日(Brithday)：<input type="date" name="username" placeholder="brithday" required><br><br>
             車票號碼(Tickets number)：<input type="number" name="username" placeholder="tickets" required><br><br>
             <input type="submit"><br><br>
+            </form>
             
             <h3><span style="color:red;border:3px red dashed">T-shirt size對照表</span></h3>
             <table border="5">
